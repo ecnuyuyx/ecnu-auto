@@ -5,10 +5,17 @@
     "label": { "en": [ "路新教授讲述" ] },
     "homepage": [
       {
-        "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/",
+        "id": "https://www.bilibili.com/video/BV1xq4y1i7Lw/?spm_id_from=333.999.0.0&amp;vd_source=766bcbed88daad845db3f535b6c3acfc",
         "type": "Text",
         "label": { "en": [ "路新教授讲述" ] },
         "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.bilibili.com/video/BV1xq4y1i7Lw/?spm_id_from=333.999.0.0&vd_source=766bcbed88daad845db3f535b6c3acfc",
+        "type": "Agent",
+        "label": { "en": [ "ceshi" ] }
       }
     ],
     "items": [
@@ -26,7 +33,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/",
+                  "id": "https://www.bilibili.com/video/BV1xq4y1i7Lw/?spm_id_from=333.999.0.0&vd_source=766bcbed88daad845db3f535b6c3acfc",
                     "duration": 20
                 },
                 "target": "https://ecnuyuyx.github.io/ecnu-auto/-/canvas-1/canvas"

@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ecnuyuyx.github.io/ecnu-auto/-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "路新教授讲述" ] },
+    "homepage": [
+      {
+        "id": "https://ecnuyuyx.github.io/ecnu-auto",
+        "type": "Text",
+        "label": { "en": [ "路新教授讲述" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://ecnuyuyx.github.io/ecnu-auto/-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5分钟,
+        "items": [
+          {
+            "id": "https://ecnuyuyx.github.io/ecnu-auto/-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://ecnuyuyx.github.io/ecnu-auto/-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://mp.weixin.qq.com/s/r8Atve0GVV-Kfdamy6u5pQ",
+                    "duration": 5分钟
+                },
+                "target": "https://ecnuyuyx.github.io/ecnu-auto/-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
